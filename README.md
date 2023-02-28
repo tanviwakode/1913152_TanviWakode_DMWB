@@ -3,6 +3,8 @@
 Format of dummy file:
 
 The .csv file contains only one column having values seperated by ','
+![image](https://user-images.githubusercontent.com/91273852/221809627-6c0e1245-faa4-4742-a236-b393c319e56b.png)
+
 
 Minimum support taken is 0.5 (50%)
 
